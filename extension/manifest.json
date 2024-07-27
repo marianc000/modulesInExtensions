@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Stain the background using content scripts made of js modules",
   "description": "How to use javascript modules in content scripts and extension service workers. Staining elements of a web page with es modules.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icons": {
     "128": "imgs/off.png"
   },

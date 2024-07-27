@@ -7,12 +7,12 @@ function setBackground(f) {
 }
 
 export function off() {
-  console.log('>off', loadedAt);
+ // console.log('>off loadedAt=', loadedAt);
   setBackground(() => '');
 }
 
 export function on() {
-  console.log('>on', loadedAt);
+ //  console.log('>on loadedAt=', loadedAt);
   setBackground(() => randomColor());
 }
 
